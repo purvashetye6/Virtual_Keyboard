@@ -1,2 +1,2 @@
 # Virtual_Keyboard
-The Virtual AI Keyboard is an innovative application that allows users to interact with their computer using a virtual keyboard powered by artificial intelligence.
+This project implements a virtual keyboard based on Artificial Intelligence using hand gestures. The program uses a webcam to detect hand gestures and operates applications like Notepad through a virtual keyboard interface.
